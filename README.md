@@ -20,9 +20,6 @@ You can download them from the link below:
 - **Dataset Folder (Movies Metadata + Netflix Titles):**  
   https://drive.google.com/drive/folders/1ihX8ISzSUUmwsj1VhcZYjiJOIGlkEWTl?usp=sharing
 
-Make sure the sharing settings for the link are set to:  
-**Anyone with the link → Viewer**
-
 ## Data Wrangling Steps
 
 ### 1. Gathering
@@ -54,6 +51,17 @@ After cleaning the data, exploratory analysis was performed, which included:
 - Observing runtime and popularity patterns
 
 The cleaned dataset enabled reliable conclusions and visual summaries about movie production and streaming trends.
+
+## Results
+The research question was: what are the most common genres on Netflix, and how are movies rated in the wider dataset?
+
+International Movies, Dramas, and Comedies are the three most common Netflix genres.
+
+![Top 10 genres on Netflix](assets/top-netflix-genres.png)
+
+Most movies have an average rating between 5 and 8.
+
+![Distribution of movie ratings](assets/movie-ratings.png)
 
 ## Tools and Libraries Used
 - Python
