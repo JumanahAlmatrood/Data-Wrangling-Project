@@ -1,5 +1,7 @@
 # Data Wrangling Project
 
+> **Udacity Data Analyst Nanodegree project.** The other projects from this program are [Communicate Data Findings](https://github.com/JumanahAlmatrood/Communicate-Data-Findings) and [Investigate a Dataset](https://github.com/JumanahAlmatrood/Investigate-a-Dataset).
+
 ## Project Overview
 This project demonstrates the complete process of data wrangling and analysis using Python.  
 The objective of the project is to gather, assess, clean, and analyze movie-related data from two different datasets, and then explore insights that can be extracted after preparing the data properly.
